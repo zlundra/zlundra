@@ -1,49 +1,61 @@
-### Hi there 👋
-### I'm Valentina, welcome to my GitHub. 🌱
+### Hi there 👋  
+### I'm Valentina — welcome to my GitHub! 🌱
 
-<hr />
+<hr/>
 
-<a href="www.linkedin.com/in/valentina-resner/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://www.linkedin.com/in/valentina-resner/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:valentina.resner@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br/>
+<br/><br/>
 
-### About Me 🚀👩‍💻
-💻 I’m a **Data Analyst** with a bachelor's degree in Physiotherapy, followed by Higher Diploma in Data Analytics for Business. </br> </br>
-👩‍💻🏼‍💻 I'm starting my analyst career, with further interest in programming. </br></br>
-💬 Feel more than welcome to contact me if you would like to know more about me or if you have any questions! </br></br>
-   
- <b><i> I am just getting started and hoping to learn a lot! 
-    
-<br/>
-<hr />
+### About Me 🚀  
 
-<div align="center">
+I'm a **Data & Insights Analyst** with a strong background in healthcare and a solid foundation in data analytics. I work across data collection, transformation, visualisation, and building reporting frameworks. I enjoy creating clear, actionable insights from messy datasets and continually expanding my technical skills through real-world projects.
+
+💬 Feel free to reach out — I’m always happy to connect or collaborate.
+
+<br/>
+<hr/>
+
+## 📊 GitHub Stats
+
+<p align="center">
   <a href="https://github.com/zlundra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlundra&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlundra&layout=compact&langs_count=7&theme=gradient"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=zlundra&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      height="160"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zlundra">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlundra&layout=compact&langs_count=7&theme=tokyonight"
+      height="160"
+    />
+  </a>
+</p>
+
+<hr/>
+
+## ⚡ Technologies & Tools  
+
+<div style="display: inline_block"><br>
+
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"/>
+<img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"/>
+<img align="left" alt="PowerBI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/power-bi/power-bi.png"/>
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/>
+<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/>
+<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"/>
+
 </div>
 
-## ⚡ Technologies I love and used during my Learning journey/would love to learn
-  
-<div style="display: inline_block"><br>
-                        
-  <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-  <img align="left" alt="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-  <img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-   <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-  <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/><br>
-  <img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
-  <img align="left" alt="Ruby" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
-  
-</div> 
-
- 
-
-             
-
+<br/><br/><br/>
